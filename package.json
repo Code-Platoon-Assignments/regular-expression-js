@@ -1,0 +1,15 @@
+{
+  "name": "regular-expression",
+  "version": "1.0.0",
+  "description": "In this assignment, you will be using regular expressions to validate and manipulate strings in Javascript.",
+  "main": "regexp.js",
+  "scripts": {
+    "test": "jest regexp.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
